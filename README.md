@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Shawn. I am a passionate technogeek who has been interested in technology for over 20 years. 
+
 <!--
 **shawn-rob/shawn-rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
