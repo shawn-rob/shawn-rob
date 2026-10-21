@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Shawn. I am a passionate technogeek who has been interested in technology for over 20 years. 
+
 
 <!--
 **shawn-rob/shawn-rob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<br>🌱 I am currently studying Linux with the Black IT Academy<br>🫱🏾‍🫲🏽 I am looking to boost my career in tech<br>⚡ In my spare time, I love to sketch and play cozy games.<br>😄 Pronouns:He/him<br><br>
+
+I am Shawn. <br>
+I am a jack of all trades techno geek. <br>
+I am passionate about growing skills in IT and building cool projects.
+
+<br>🌱 I am currently studying Linux with the Black IT Academy<br>🫱🏾‍🫲🏽 I am looking to boost my career in tech<br>⚡ In my spare time, I love to sketch and play cozy games.<br>😄 Pronouns:He/him<br>You can reach me on LinkedIn<br><br>
 
 
 ## 🌐 Socials:
